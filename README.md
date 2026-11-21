@@ -1,8 +1,8 @@
 # The poem about two agents agreeing
 
 [![bounty](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
-[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Indramunggahari10/the-poem-about-two-agents-20261121-1441-ono10/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
-[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Indramunggahari10/the-poem-about-two-agents-20261121-1441-ono10/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/vjmunggahari-ui/the-poem-about-two-agents-20261121-1441-ono10/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/vjmunggahari-ui/the-poem-about-two-agents-20261121-1441-ono10/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 
 A make.fun entry: a program that writes one short poem about agency —
 the power to choose and to act — to `/output/entry.txt`.
